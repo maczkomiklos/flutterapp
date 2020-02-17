@@ -42,7 +42,7 @@ class _HomeState extends State<Home> {
                 width: 260.0,
                 height: 60.0,
                 decoration: BoxDecoration(
-                  image: DecorationImage(
+                  image: DecorationImage( 
                     image: AssetImage(
                       'assets/images/google_signin_button.png',
                     ),
